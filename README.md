@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2ea043&height=230&section=header&text=Hey,%20I'm%20Priyanshu%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20data%20into%20decisions%20%E2%80%94%20one%20model%20at%20a%20time&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2600&pause=700&color=2EA043&center=true&vCenter=true&width=650&lines=I'm+a+Data+Analyst+%F0%9F%93%8A;I'm+a+Data+Scientist+%F0%9F%A7%AA;I'm+an+AI+Engineer+%F0%9F%A4%96;Turning+Data+Into+Decisions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2600&pause=700&color=2EA043&center=true&vCenter=true&width=650&lines=I'm+a+Aspiring+Data+Analyst+%F0%9F%93%8A;I'm+a+Aspiring+Data+Scientist+%F0%9F%A7%AA;I'm+an+Aspiring+AI+Engineer+%F0%9F%A4%96;Turning+Data+Into+Decisions" alt="Typing SVG"/>
 
 <br/>
 
