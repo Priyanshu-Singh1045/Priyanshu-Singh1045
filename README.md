@@ -37,8 +37,177 @@
 
 <br/>
 
-🛠️ Tech Stack
-<div align="center"> <sub>A snapshot of what I build with — always growing 🌱</sub> </div> <br/> <p>📊 &nbsp;<b>Data & Analytics</b> &nbsp;<sub><i>— turning raw numbers into a story</i></sub></p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=black"/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,50:58a6ff,100:0f2027&height=2&width=100%"/> <p>🤖 &nbsp;<b>AI & Backend</b> &nbsp;<sub><i>— building the systems behind the insight</i></sub></p> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-025B9A?style=flat-square"/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:2ea043,100:0f2027&height=2&width=100%"/> <p>🧰 &nbsp;<b>Tools & Platforms</b> &nbsp;<sub><i>— my everyday workflow</i></sub></p> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,50:58a6ff,100:0f2027&height=2&width=100%"/> <p>🌱 &nbsp;<b>Currently Exploring</b> &nbsp;<sub><i>— what's on my learning radar right now</i></sub></p> <img src="https://img.shields.io/badge/🧠_Multi--Agent_Systems-6C5CE7?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/📚_RAG_Pipelines-00B894?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/🔍_Vector_Search-0984E3?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/✍️_Prompt_Engineering-E17055?style=flat-square&logoColor=white"/> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0f2027&height=3&width=100%"/> <br/>
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,r" />
+</p>
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## 📥 Data Collection & Extraction
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4CAF50?style=flat-square)
+![APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-217346?style=flat-square)
+
+---
+
+## 🧹 Data Cleaning & Preprocessing
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-0EA5E9?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-F97316?style=flat-square)
+![Missing Values](https://img.shields.io/badge/Missing%20Value%20Treatment-8B5CF6?style=flat-square)
+![Outlier Detection](https://img.shields.io/badge/Outlier%20Detection-DC2626?style=flat-square)
+
+---
+
+## 📊 Exploratory Data Analysis (EDA)
+
+![EDA](https://img.shields.io/badge/EDA-2563EB?style=flat-square)
+![Statistics](https://img.shields.io/badge/Statistics-7C3AED?style=flat-square)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-9333EA?style=flat-square)
+![Correlation Analysis](https://img.shields.io/badge/Correlation%20Analysis-0F766E?style=flat-square)
+![Distribution Analysis](https://img.shields.io/badge/Distribution%20Analysis-14B8A6?style=flat-square)
+
+---
+
+## 📈 Data Visualization & BI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=matplotlib" />
+</p>
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E6E9E?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />
+</p>
+
+![SQL Queries](https://img.shields.io/badge/SQL%20Queries-1E40AF?style=flat-square)
+![Joins](https://img.shields.io/badge/Joins-0EA5E9?style=flat-square)
+![CTEs](https://img.shields.io/badge/CTEs-0284C7?style=flat-square)
+![Window Functions](https://img.shields.io/badge/Window%20Functions-0369A1?style=flat-square)
+![Views](https://img.shields.io/badge/Views-075985?style=flat-square)
+
+---
+
+## 🤖 Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-2563EB?style=flat-square)
+![Classification](https://img.shields.io/badge/Classification-059669?style=flat-square)
+![Clustering](https://img.shields.io/badge/Clustering-DB2777?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-9333EA?style=flat-square)
+![Cross Validation](https://img.shields.io/badge/Cross%20Validation-7C3AED?style=flat-square)
+
+---
+
+## 🧠 Generative AI & Agentic AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi" />
+</p>
+
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=flat-square)
+![LLM Applications](https://img.shields.io/badge/LLM%20Applications-7C3AED?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-2563EB?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0891B2?style=flat-square)
+![Pydantic AI](https://img.shields.io/badge/Pydantic-AI-E92063?style=flat-square)
+
+---
+
+## ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0F766E?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+---
+
+## 📦 AI & Data Engineering
+
+![ETL Pipeline](https://img.shields.io/badge/ETL%20Pipelines-2563EB?style=flat-square)
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-0284C7?style=flat-square)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-16A34A?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-7C3AED?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-9333EA?style=flat-square)
+
+---
+
+## 🛠️ Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+</p>
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+
+---
+
+## 🚀 Deployment & Workflow
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Environment Variables](https://img.shields.io/badge/.env-4B5563?style=flat-square)
+![Virtual Environment](https://img.shields.io/badge/Python%20venv-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swagger API](https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+---
+
+## 📚 Core Data Analytics Workflow
+
+```text
+📥 Data Collection
+        │
+        ▼
+🧹 Data Cleaning & Preprocessing
+        │
+        ▼
+📊 Exploratory Data Analysis (EDA)
+        │
+        ▼
+📈 Visualization & Dashboarding
+        │
+        ▼
+🤖 Machine Learning
+        │
+        ▼
+🧠 Generative AI / Agentic AI
+        │
+        ▼
+⚙️ APIs • Databases • Deployment
+```
+
+<b>Currently Exploring</b> &nbsp;<sub><i>— what's on my learning radar right now</i></sub></p> <img src="https://img.shields.io/badge/🧠_Multi--Agent_Systems-6C5CE7?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/📚_RAG_Pipelines-00B894?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/🔍_Vector_Search-0984E3?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/✍️_Prompt_Engineering-E17055?style=flat-square&logoColor=white"/> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0f2027&height=3&width=100%"/> <br/>
 🚀 Featured Projects
 <table width="100%"> <tr> <td width="50%" valign="top"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2ea043&height=50&section=header&text=MERIDIAN&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
